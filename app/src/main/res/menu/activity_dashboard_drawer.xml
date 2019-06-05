@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+        android:id="@+id/book_ticket"
+        android:icon="@drawable/bookbus"
+        android:title="Book a Ticket" />
+
+        <item
+            android:id="@+id/booking_status"
+            android:icon="@drawable/bookstatus"
+            android:title="Booking Status" />
+
+        <item
+            android:id="@+id/rescheduleBooking"
+            android:icon="@drawable/bookstatus"
+            android:title="Reschedule" />
+
+        <item
+            android:id="@+id/cancelBooking"
+            android:icon="@drawable/ic_cancel"
+            android:title="Cancel Booking" />
+
+        <item
+            android:id="@+id/userProfile"
+            android:icon="@drawable/ic_user_profile"
+            android:title="User Profile" />
+    </group>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/abouticon"
+                android:title="About Us"/>
+        </menu>
+
+    </item>
+
+</menu>

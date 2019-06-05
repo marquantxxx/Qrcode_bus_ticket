@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ticketappauchi</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="reg_question">Don\'t have an account? Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_question">Already Registered? Log in</string>
+    <string name="about">About</string>
+    <string name="about_project">This application was developed for the award of HND year 2019,Auchi polytechnic,Edo state</string>
+    <string name="project">android bus ticket app with qrcode project</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="booking_status">Booking Status</string>
+    <string name="re_schedule">Re-schedule</string>
+
+    <string-array name="terminal_names_from">
+
+        <item>Select Terminal</item>
+        <item>Auchi</item>
+
+    </string-array>
+
+    <string-array name="terminal_names_to">
+
+        <item>Select Terminal</item>
+        <item>Aba</item>
+        <item>Calabar</item>
+        <item>Enugu</item>
+        <item>Lagos</item>
+        <item>Onitsha</item>
+        <item>Owerri</item>
+        <item>PortHarcourt</item>
+        <item>Umuahia</item>
+        <item>Uyo</item>
+
+    </string-array>
+
+    <string-array name="noOfTravelers">
+
+        <item>Select Number</item>
+        <item>1</item>
+        <item>2</item>
+
+    </string-array>
+</resources>
